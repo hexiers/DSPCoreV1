@@ -1,0 +1,3 @@
+---- CmdREQSINGLEDATA Matches (2 in 2 files) ----
+MCSoft_Uart.c (c:\users\wangsy1\desktop\hxun\dspcore20201012\dspcore20201012\dspcorev1\mcsoft\source):            else if(pstRBufMng->pstRxFrm->CmdWord == CmdREQSINGLEDATA)
+MC_Include.h (c:\users\wangsy1\desktop\hxun\dspcore20201012\dspcore20201012\dspcorev1\mcsoft\include):	CmdREQSINGLEDATA,
